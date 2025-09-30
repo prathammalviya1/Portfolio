@@ -49,6 +49,7 @@
 <h2>Contact</h2>
 <ul>
   <li><b>Email:</b> prathammalviya1@gmail.com</li>
+   <li><b>Mobile:</b> +91-9399955729</li>
 </ul>
 
 <hr>
