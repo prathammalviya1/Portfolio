@@ -49,8 +49,6 @@
 <h2>Contact</h2>
 <ul>
   <li><b>Email:</b> prathammalviya1@gmail.com</li>
-  <li> <a href="https://www.linkedin.com/in/prathammalviya1/">LinkedIn</a></li>
-  <li> <a href="https://github.com/prathammalviya1">GitHub</a></li>
 </ul>
 
 <hr>
